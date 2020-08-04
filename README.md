@@ -4,6 +4,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 27 July, 2020 - 03 August, 2020
+
 Vue.js       2 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   33.14 % 
 Java         1 hr 57 mins    ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
 TypeScript   1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
