@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2020 - 07 August, 2020
+Week: 01 August, 2020 - 08 August, 2020
 
 Vue.js       2 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   33.14 % 
 Java         1 hr 57 mins    ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
