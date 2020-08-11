@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="undefined" width="600" />
-</div>  
-
+</div>
 
 ### <div align="center">Hi there, I'm Hamza, and I write code for work and for fun.</div>
 
@@ -101,7 +100,7 @@ JSON         47 mins         ██░░░░░░░░░░░░░░░
 <a href="https://dev.to/hufghani" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/hamza-u-f-ghan" target="_blank">
+<a href="https://linkedin.com/in/hamza-u-f-ghani" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/the.ghani" target="_blank">
