@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 August, 2020 - 23 August, 2020
+Week: 17 August, 2020 - 24 August, 2020
 
 Java         12 hrs 45 mins  ██████████████████▒░░░░░░   72.89 % 
 Groovy       1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
