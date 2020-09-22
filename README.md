@@ -70,13 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2020 - 20 September, 2020
+Week: 14 September, 2020 - 21 September, 2020
 
-Java         12 hrs 45 mins  ██████████████████▒░░░░░░   72.89 % 
-Groovy       1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-JavaScript   1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Markdown     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-YAML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+TypeScript   12 hrs 30 mins  ███████████████░░░░░░░░░░   60.62 % 
+SCSS         5 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.28 % 
+Java         1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JavaScript   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Other        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 <!--END_SECTION:waka-->
 
