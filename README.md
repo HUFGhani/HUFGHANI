@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2020 - 04 November, 2020
+Week: 29 October, 2020 - 05 November, 2020
 
 TypeScript   12 hrs 30 mins  ███████████████░░░░░░░░░░   60.62 % 
 SCSS         5 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.28 % 
