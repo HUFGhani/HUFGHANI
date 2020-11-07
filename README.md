@@ -70,13 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 October, 2020 - 05 November, 2020
+Week: 30 October, 2020 - 06 November, 2020
 
-TypeScript   12 hrs 30 mins  ███████████████░░░░░░░░░░   60.62 % 
-SCSS         5 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.28 % 
-Java         1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-JavaScript   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Other        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+TypeScript   2 hrs 35 mins   █████████▒░░░░░░░░░░░░░░░   36.84 % 
+JSON         1 hr 26 mins    █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+Properties   1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Java         46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Groovy       29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 ```
 <!--END_SECTION:waka-->
 
