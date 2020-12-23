@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2020 - 21 December, 2020
+Week: 15 December, 2020 - 22 December, 2020
 
 TypeScript   2 hrs 35 mins   █████████▒░░░░░░░░░░░░░░░   36.84 % 
 JSON         1 hr 26 mins    █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
