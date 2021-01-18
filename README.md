@@ -15,53 +15,53 @@
 ### Frontend
 
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" height="50" />   
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" height="50" />
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />   
+<img style="margin: 10px" src="images/frontend/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="images/frontend/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="images/frontend/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="images/frontend/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="images/frontend/electron-original.svg" alt="Electron" height="50" />  
+<img style="margin: 10px" src="images/frontend/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="images/frontend/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="images/frontend/android-original-wordmark.svg" alt="Android" height="50" />  
+<img style="margin: 10px" src="images/frontend/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="images/frontend/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="images/frontend/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
+<img style="margin: 10px" src="images/frontend/redux-original.svg" alt="Redux" height="50" />   
+<img style="margin: 10px" src="images/frontend/webpack-original.svg" alt="Webpack" height="50" />
+<img style="margin: 10px" src="images/frontend/git-scm-icon.svg" alt="Git" height="50" />   
 </div></td><td valign="top" width="33%">
 
 ### Backend
 
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="Scala" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="50" />  
+<img style="margin: 10px" src="images/backend/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="images/backend/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="images/backend/typescript-original.svg" salt="TypeScript" height="50" />  
+<img style="margin: 10px" src="images/backend/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="images/backend/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="images/backend/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="images/backend/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="images/backend/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="images/backend/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="images/backend/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="images/backend/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="images/backend/scala-original-wordmark.svg" alt="Scala" height="50" />  
+<img style="margin: 10px" src="images/backend/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="images/backend/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+<img style="margin: 10px" src="images/backend/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="images/backend/apache_kafka-icon.svg" alt="Kafka" height="50" />  
 </div></td><td valign="top" width="33%">
 
 ### DevOps
 
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="images/devOps/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="images/devOps/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="images/devOps/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="images/devOps/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="images/devOps/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="images/devOps/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="images/devOps/docker-original-wordmark.svg" alt="Docker" height="50" />  
 </div></td></tr></table>
 
 <br/>
