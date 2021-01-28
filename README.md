@@ -70,13 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2021 - 26 January, 2021
-
-TypeScript   2 hrs 35 mins   █████████▒░░░░░░░░░░░░░░░   36.84 % 
-JSON         1 hr 26 mins    █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Properties   1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Java         46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Groovy       29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
