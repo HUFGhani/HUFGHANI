@@ -70,7 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 13 February, 2021 - 20 February, 2021
+
+Java         12 hrs 45 mins  ██████████████████▒░░░░░░   72.89 % 
+Groovy       1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+JavaScript   1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Markdown     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+YAML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 <!--END_SECTION:waka-->
 
