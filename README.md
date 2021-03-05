@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 February, 2021 - 03 March, 2021
+Week: 25 February, 2021 - 04 March, 2021
 
 Java         12 hrs 45 mins  ██████████████████▒░░░░░░   72.89 % 
 Groovy       1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
