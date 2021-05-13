@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 May, 2021 - 11 May, 2021
+Week: 05 May, 2021 - 12 May, 2021
 
 TypeScript   7 hrs 47 mins   ████████████████▓░░░░░░░░   67.14 % 
 Java         1 hr 47 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
