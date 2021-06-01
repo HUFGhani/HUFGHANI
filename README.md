@@ -70,13 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 May, 2021 - 30 May, 2021
-
-TypeScript   7 hrs 47 mins   ████████████████▓░░░░░░░░   67.14 % 
-Java         1 hr 47 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Other        1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Groovy       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
