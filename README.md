@@ -70,7 +70,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 May, 2021 - 01 June, 2021
+
+TypeScript   1 hr 2 mins     ███████████░░░░░░░░░░░░░░   44.45 % 
+Other        1 hr 1 min      ██████████▓░░░░░░░░░░░░░░   43.31 % 
+JSON         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+JavaScript   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 ```
 <!--END_SECTION:waka-->
 
