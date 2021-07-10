@@ -70,9 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 July, 2021 - 08 July, 2021
+Week: 03 July, 2021 - 09 July, 2021
 
-YAML   5 mins          █████████████████████████   100.00 % 
+JSON         1 hr 18 mins    ███████████░░░░░░░░░░░░░░   44.21 % 
+TypeScript   50 mins         ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+JavaScript   29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Vue.js       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+HTML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 <!--END_SECTION:waka-->
 
