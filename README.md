@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2021 - 10 September, 2021
+Week: 05 September, 2021 - 11 September, 2021
 
 Java         3 hrs 39 mins   ███████████░░░░░░░░░░░░░░   43.46 % 
 TypeScript   2 hrs 30 mins   ███████▒░░░░░░░░░░░░░░░░░   29.78 % 
