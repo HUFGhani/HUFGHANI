@@ -70,12 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 September, 2021 - 20 September, 2021
+Week: 15 September, 2021 - 21 September, 2021
 
-Java         3 hrs 3 mins    ███████████████▓░░░░░░░░░   63.29 % 
-TypeScript   1 hr 38 mins    ████████▒░░░░░░░░░░░░░░░░   33.86 % 
-JSX          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Java         4 hrs 28 mins   █████████████░░░░░░░░░░░░   52.30 % 
+TypeScript   3 hrs 53 mins   ███████████▒░░░░░░░░░░░░░   45.36 % 
+JSX          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Groovy       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
 
