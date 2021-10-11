@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
 Java         6 hrs 46 mins   █████████████████████░░░░   84.29 % 
 TypeScript   1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 % 
