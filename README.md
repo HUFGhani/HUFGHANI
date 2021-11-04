@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2021 - 02 November, 2021
+Week: 28 October, 2021 - 03 November, 2021
 
 TypeScript   7 hrs 35 mins   █████████████▒░░░░░░░░░░░   52.91 % 
 YAML         2 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
