@@ -70,13 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 December, 2021 - 09 December, 2021
+Week: 04 December, 2021 - 10 December, 2021
 
-Other        3 hrs 27 mins   █████████████░░░░░░░░░░░░   51.95 % 
-JavaScript   2 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   32.27 % 
-TypeScript   42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-GraphQL      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Other        4 hrs 27 mins   ████████████████████▒░░░░   81.12 % 
+JavaScript   37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+TypeScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+GraphQL      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+SQL          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 <!--END_SECTION:waka-->
 
