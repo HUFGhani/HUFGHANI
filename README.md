@@ -70,13 +70,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
+Week: 05 December, 2021 - 11 December, 2021
 
-Other        4 hrs 27 mins   ████████████████████▒░░░░   81.12 % 
-JavaScript   37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-TypeScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-GraphQL      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-SQL          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Other   4 hrs 27 mins   ████████████████████████▓   98.30 % 
+SQL     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 <!--END_SECTION:waka-->
 
