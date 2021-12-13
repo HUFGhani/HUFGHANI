@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 December, 2021 - 11 December, 2021
+Week: 06 December, 2021 - 12 December, 2021
 
 Other   4 hrs 27 mins   ████████████████████████▓   98.30 % 
 SQL     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
