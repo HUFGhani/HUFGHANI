@@ -70,13 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
+Week: 12 December, 2021 - 18 December, 2021
 
-Groovy       1 hr 44 mins    ████████▒░░░░░░░░░░░░░░░░   33.39 % 
-Other        1 hr 20 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.54 % 
-Java         51 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-TypeScript   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Properties   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Groovy       1 hr 44 mins    ████████▒░░░░░░░░░░░░░░░░   33.10 % 
+Other        1 hr 20 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.33 % 
+Java         51 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+TypeScript   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Properties   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 ```
 <!--END_SECTION:waka-->
 
