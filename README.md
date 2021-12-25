@@ -70,13 +70,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2021 - 23 December, 2021
+Week: 18 December, 2021 - 24 December, 2021
 
-Other        1 hr 25 mins    ██████████████░░░░░░░░░░░   56.43 % 
-Java         43 mins         ███████▒░░░░░░░░░░░░░░░░░   28.97 % 
-Groovy       18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-SQL          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Other   1 hr 10 mins    ████████████████████████░   96.27 % 
+SQL     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 ```
 <!--END_SECTION:waka-->
 
