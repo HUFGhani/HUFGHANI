@@ -70,10 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
-
-Other   1 hr 10 mins    ████████████████████████░   96.27 % 
-SQL     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
