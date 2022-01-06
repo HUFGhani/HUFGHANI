@@ -70,7 +70,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 December, 2021 - 05 January, 2022
+
+Other        2 hrs 5 mins    ██████████████████████░░░   88.27 % 
+Java         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 <!--END_SECTION:waka-->
 
