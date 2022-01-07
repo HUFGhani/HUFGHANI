@@ -70,11 +70,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
-Other        2 hrs 5 mins    ██████████████████████░░░   88.27 % 
-Java         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Other        2 hrs 5 mins    █████████████████▒░░░░░░░   69.57 % 
+YAML         31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Java         21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->
 
