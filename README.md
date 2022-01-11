@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2022 - 09 January, 2022
+Week: 04 January, 2022 - 10 January, 2022
 
 Other        2 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.97 % 
 YAML         1 hr 36 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.27 % 
