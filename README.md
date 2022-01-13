@@ -70,13 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
-Other        2 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.23 % 
-YAML         1 hr 41 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.83 % 
-Groovy       1 hr 33 mins    █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Properties   43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Java         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+YAML         1 hr 59 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.27 % 
+Groovy       1 hr 48 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.02 % 
+Other        1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Properties   43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+JavaScript   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 <!--END_SECTION:waka-->
 
