@@ -70,13 +70,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
-TypeScript   6 hrs 10 mins   ████████████▒░░░░░░░░░░░░   49.20 % 
-Groovy       1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Other        1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-JSON         1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-YAML         1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+TypeScript   4 hrs 49 mins   ███████████░░░░░░░░░░░░░░   43.97 % 
+Groovy       1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Other        1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+JSON         1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+YAML         1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 ```
 <!--END_SECTION:waka-->
 
