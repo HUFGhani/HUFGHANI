@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2022 - 06 February, 2022
+Week: 01 February, 2022 - 07 February, 2022
 
 TypeScript   4 hrs 49 mins   ███████████░░░░░░░░░░░░░░   43.97 % 
 Groovy       1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
