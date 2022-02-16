@@ -70,13 +70,15 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+Week: 09 February, 2022 - 15 February, 2022
 
-YAML         6 hrs 40 mins   ██████████████▓░░░░░░░░░░   59.12 % 
-TypeScript   3 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.25 % 
-Java         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Docker       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Text         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Total: 8 hrs 11 mins
+
+YAML         5 hrs 42 mins   █████████████████▒░░░░░░░   69.15 % 
+TypeScript   1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Java         37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Docker       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Text         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 <!--END_SECTION:waka-->
 
