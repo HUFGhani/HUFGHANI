@@ -70,15 +70,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 2 hrs 21 mins
+Total: 19 mins
 
-TypeScript   1 hr 1 min      ██████████▓░░░░░░░░░░░░░░   42.49 % 
-YAML         31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 % 
-Java         25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Text         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Docker       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+TypeScript   19 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
