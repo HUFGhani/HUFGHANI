@@ -71,9 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2022 - To: 24 April 2022
+From: 18 April 2022 - To: 25 April 2022
 
-Other        11 hrs 33 mins  ████████████████████▓░░░░   82.53 %
+Other        11 hrs 24 mins  ████████████████████▓░░░░   82.13 %
 ```
 
 <!--END_SECTION:waka-->
