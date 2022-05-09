@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
 SQL             1 hr 13 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
 Other           1 hr 9 mins     ██████░░░░░░░░░░░░░░░░░░░   24.31 %
