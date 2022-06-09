@@ -71,10 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 May 2022 - To: 06 June 2022
+From: 01 June 2022 - To: 08 June 2022
 
-TypeScript     2 hrs 37 mins   ██████████▒░░░░░░░░░░░░░░   41.54 %
-Other          1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
+Svelte       3 hrs 32 mins   █████████████░░░░░░░░░░░░   51.71 %
+Other        1 hr 43 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
 ```
 
 <!--END_SECTION:waka-->
