@@ -71,10 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2022 - To: 12 June 2022
+From: 06 June 2022 - To: 13 June 2022
 
-Svelte       6 hrs 46 mins   ███████████▓░░░░░░░░░░░░░   46.12 %
-Other        4 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.57 %
+Svelte       10 hrs 21 mins  ███████████▓░░░░░░░░░░░░░   46.61 %
+Other        5 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
 ```
 
 <!--END_SECTION:waka-->
