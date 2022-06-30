@@ -71,12 +71,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 June 2022 - To: 28 June 2022
+From: 22 June 2022 - To: 29 June 2022
 
-TypeScript       3 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.59 %
-Svelte           2 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
-Java             2 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
-Other            1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+TypeScript       6 hrs 38 mins   ██████████░░░░░░░░░░░░░░░   40.51 %
+Svelte           4 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.31 %
+Java             1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Other            1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
