@@ -71,11 +71,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 June 2022 - To: 03 July 2022
+From: 27 June 2022 - To: 04 July 2022
 
-TypeScript   6 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   39.30 %
-Svelte       6 hrs 31 mins   █████████▓░░░░░░░░░░░░░░░   38.62 %
-Other        1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Svelte       6 hrs 31 mins   ██████████▓░░░░░░░░░░░░░░   42.16 %
+TypeScript   5 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.35 %
+Groovy       1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+HTML         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Gradle       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
