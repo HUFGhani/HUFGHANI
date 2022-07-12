@@ -71,14 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 July 2022 - To: 10 July 2022
+From: 04 July 2022 - To: 11 July 2022
 
-Java           2 hrs 4 mins    ████████▒░░░░░░░░░░░░░░░░   32.90 %
-Svelte         1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
-Groovy         54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-TypeScript     35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Bash           22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Gradle         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Other          2 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   28.16 %
 ```
 
 <!--END_SECTION:waka-->
