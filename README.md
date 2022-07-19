@@ -71,9 +71,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 July 2022 - To: 17 July 2022
+From: 11 July 2022 - To: 18 July 2022
 
-Other          2 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   31.86 %
+Java           1 hr 37 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
+Groovy         1 hr 21 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+Other          1 hr            ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
 ```
 
 <!--END_SECTION:waka-->
