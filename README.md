@@ -71,9 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 July 2022 - To: 26 July 2022
+From: 21 July 2022 - To: 28 July 2022
 
-Other          3 hrs           ████████████░░░░░░░░░░░░░   47.77 %
+Svelte         1 hr 53 mins    ███████████░░░░░░░░░░░░░░   44.63 %
+Other          1 hr 4 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
 ```
 
 <!--END_SECTION:waka-->
