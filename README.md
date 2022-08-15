@@ -71,10 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 July 2022 - To: 29 July 2022
+From: 07 August 2022 - To: 14 August 2022
 
-Svelte         4 hrs 37 mins   ████████████████░░░░░░░░░   64.17 %
-Other          1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
+TypeScript       7 hrs 17 mins   ██████████████░░░░░░░░░░░   55.57 %
+Other            2 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
 ```
 
 <!--END_SECTION:waka-->
