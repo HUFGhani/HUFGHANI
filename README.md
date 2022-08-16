@@ -71,10 +71,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
-TypeScript       7 hrs 17 mins   ██████████████░░░░░░░░░░░   55.57 %
-Other            2 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+TypeScript       7 hrs 17 mins   ████████████████▒░░░░░░░░   65.73 %
+Groovy           1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+Java             43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Gradle           38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+YAML             29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Python           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
