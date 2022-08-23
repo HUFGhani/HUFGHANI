@@ -71,14 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 August 2022 - To: 21 August 2022
+From: 15 August 2022 - To: 22 August 2022
 
-Gradle         18 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
-Svelte         12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-TypeScript     11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Shell Script   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Bash           9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Java           5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+Java           4 hrs 30 mins   ████████████████▓░░░░░░░░   66.68 %
+Other          1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
 ```
 
 <!--END_SECTION:waka-->
