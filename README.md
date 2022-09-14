@@ -71,14 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 06 September 2022 - To: 13 September 2022
 
-Java            2 hrs 30 mins   ███████████████▒░░░░░░░░░   61.97 %
-Groovy          27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Gradle          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Markdown        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Text            8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-JavaScript      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Other            1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   23.95 %
 ```
 
 <!--END_SECTION:waka-->
