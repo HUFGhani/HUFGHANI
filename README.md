@@ -71,11 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 September 2022 - To: 18 September 2022
+From: 12 September 2022 - To: 19 September 2022
 
-TypeScript       4 hrs 45 mins   █████████████▓░░░░░░░░░░░   54.25 %
-Groovy           1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Other            1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+TypeScript       4 hrs 5 mins    ██████████████░░░░░░░░░░░   55.58 %
+Other            1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
 ```
 
 <!--END_SECTION:waka-->
