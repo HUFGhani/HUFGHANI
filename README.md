@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 September 2022 - To: 30 September 2022
+From: 24 September 2022 - To: 01 October 2022
 
 Java         1 hr 23 mins    ██████████▓░░░░░░░░░░░░░░   42.38 %
 Other        1 hr 7 mins     ████████▓░░░░░░░░░░░░░░░░   34.22 %
