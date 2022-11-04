@@ -71,14 +71,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 October 2022 - To: 01 November 2022
+From: 26 October 2022 - To: 02 November 2022
 
-Svelte          2 hrs 4 mins    ██████████▓░░░░░░░░░░░░░░   42.93 %
-Java            1 hr 26 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 %
-Docker          27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-TypeScript      25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-JSON            8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Other           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Svelte          2 hrs 6 mins    ██████████████▒░░░░░░░░░░   57.64 %
+Docker          27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+TypeScript      25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Other           18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
 ```
 
 <!--END_SECTION:waka-->
