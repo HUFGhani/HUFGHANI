@@ -71,13 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 October 2022 - To: 06 November 2022
+From: 01 November 2022 - To: 07 November 2022
 
-Svelte          2 hrs 6 mins    ██████████▒░░░░░░░░░░░░░░   41.57 %
-TypeScript      1 hr 25 mins    ███████░░░░░░░░░░░░░░░░░░   28.20 %
-YAML            45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-JSON            19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Other           19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+TypeScript   1 hr 23 mins    ███████░░░░░░░░░░░░░░░░░░   27.59 %
+Other        1 hr 19 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
 ```
 
 <!--END_SECTION:waka-->
