@@ -71,11 +71,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 November 2022 - To: 05 December 2022
+From: 30 November 2022 - To: 06 December 2022
 
-JSON         16 mins         █████████░░░░░░░░░░░░░░░░   36.59 %
-Go           12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
-Other        9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+JSON         16 mins         ████████▒░░░░░░░░░░░░░░░░   33.25 %
+Go           12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+Other        9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
 ```
 
 <!--END_SECTION:waka-->
