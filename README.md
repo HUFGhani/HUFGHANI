@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 06 December 2022
+From: 01 December 2022 - To: 07 December 2022
 
 JSON         16 mins         ████████▒░░░░░░░░░░░░░░░░   33.25 %
 Go           12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.37 %
