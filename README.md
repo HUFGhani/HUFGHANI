@@ -71,11 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 10 December 2022
+From: 06 December 2022 - To: 12 December 2022
 
-TypeScript   7 mins          █████████████▓░░░░░░░░░░░   55.09 %
-SQL          4 mins          ████████▓░░░░░░░░░░░░░░░░   34.07 %
-JSON         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+Other        2 hrs           ███████████████████▒░░░░░   77.88 %
 ```
 
 <!--END_SECTION:waka-->
