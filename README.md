@@ -71,9 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 December 2022 - To: 31 December 2022
-
-Other   6 hrs           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
