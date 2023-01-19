@@ -71,9 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 16 January 2023
+From: 11 January 2023 - To: 17 January 2023
 
-Groovy   1 min           █████████████████████████   100.00 %
+Groovy       1 min           █████████████████████▓░░░   86.94 %
+TypeScript   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
 ```
 
 <!--END_SECTION:waka-->
