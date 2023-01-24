@@ -71,11 +71,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 21 January 2023
+From: 16 January 2023 - To: 22 January 2023
 
-Groovy       30 mins         ███████████████████████▒░   92.73 %
-Properties   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Groovy       30 mins         ███████████████░░░░░░░░░░   59.34 %
+Java         18 mins         █████████░░░░░░░░░░░░░░░░   36.01 %
+Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
