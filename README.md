@@ -71,10 +71,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 02 February 2023
+From: 28 January 2023 - To: 03 February 2023
 
-JSON         27 mins         ████████████████████▓░░░░   82.73 %
-Other        4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+JSON         27 mins         ████████████████████████░   95.69 %
+TypeScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
