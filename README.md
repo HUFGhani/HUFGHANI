@@ -71,11 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 February 2023 - To: 21 February 2023
+From: 16 February 2023 - To: 22 February 2023
 
-JavaScript   28 mins         ████████████▓░░░░░░░░░░░░   50.94 %
-Bash         10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.44 %
-Other        10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
+JavaScript   28 mins         ██████████░░░░░░░░░░░░░░░   40.37 %
+Other        12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
 ```
 
 <!--END_SECTION:waka-->
