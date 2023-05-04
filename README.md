@@ -71,10 +71,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2023 - To: 01 May 2023
+From: 25 April 2023 - To: 02 May 2023
 
-Text   2 mins          ████████████████▓░░░░░░░░   66.85 %
-SQL    1 min           ████████▒░░░░░░░░░░░░░░░░   33.15 %
+TypeScript   14 mins         ██████████████▓░░░░░░░░░░   58.06 %
+JavaScript   9 mins          █████████░░░░░░░░░░░░░░░░   35.67 %
+SQL          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
