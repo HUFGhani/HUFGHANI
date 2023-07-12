@@ -71,9 +71,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 09 July 2023
+From: 03 July 2023 - To: 10 July 2023
 
-Docker   0 secs          █████████████████████████   100.00 %
+YAML     16 mins         ███████████████████░░░░░░   76.66 %
+JSON     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+Other    2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Docker   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
