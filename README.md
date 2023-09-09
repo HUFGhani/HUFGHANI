@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-YAML           1 hr 27 mins    ██████████▓░░░░░░░░░░░░░░   42.83 %
-JSON           1 hr            ███████▒░░░░░░░░░░░░░░░░░   29.50 %
-TypeScript     22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-JavaScript     13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Text           11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+JSON           41 mins         █████████░░░░░░░░░░░░░░░░   35.44 %
+JavaScript     33 mins         ███████▒░░░░░░░░░░░░░░░░░   28.69 %
+TypeScript     22 mins         █████░░░░░░░░░░░░░░░░░░░░   19.56 %
+YAML           9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+CBM BASIC V2   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
 ```
 
 <!--END_SECTION:waka-->
