@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2023 - To: 09 October 2023
+From: 03 October 2023 - To: 10 October 2023
 
-JSON              1 hr 2 mins     ████████▒░░░░░░░░░░░░░░░░   33.96 %
-TypeScript        56 mins         ███████▓░░░░░░░░░░░░░░░░░   30.97 %
-Docker            18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Ezhil             13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Groovy            11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+JSON              1 hr 4 mins     ████████▒░░░░░░░░░░░░░░░░   33.86 %
+TypeScript        33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+YAML              20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+Docker            19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Groovy            17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
 ```
 
 <!--END_SECTION:waka-->
