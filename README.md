@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2023 - To: 20 November 2023
+From: 15 November 2023 - To: 21 November 2023
 
-Other        5 hrs           ████████████▒░░░░░░░░░░░░   48.98 %
-TypeScript   4 hrs 18 mins   ██████████▓░░░░░░░░░░░░░░   42.15 %
-JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-SourceMap    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TypeScript       7 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.81 %
+Other            5 hrs           █████████▒░░░░░░░░░░░░░░░   37.58 %
+JavaScript       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+JSON             26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+SourceMap        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
