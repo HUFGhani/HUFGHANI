@@ -71,9 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 01 January 2024
+From: 27 December 2023 - To: 02 January 2024
 
-No activity tracked
+TypeScript       59 mins         ██████████████▒░░░░░░░░░░   56.72 %
+Markdown         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Text             12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+JSON             8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+JavaScript       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
 ```
 
 <!--END_SECTION:waka-->
