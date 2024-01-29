@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2024 - To: 26 January 2024
+From: 21 January 2024 - To: 27 January 2024
 
-TypeScript       2 hrs 41 mins   ████████████████▓░░░░░░░░   66.76 %
-JSON             43 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-Other            25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-YAML             8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+TypeScript       2 hrs 41 mins   ██████████████████▓░░░░░░   74.45 %
+JSON             43 mins         █████░░░░░░░░░░░░░░░░░░░░   20.23 %
+YAML             8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+textmate         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
