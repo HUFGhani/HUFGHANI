@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 20 February 2024
+From: 15 February 2024 - To: 21 February 2024
 
-TypeScript   3 hrs 40 mins   █████████████████░░░░░░░░   67.44 %
-JavaScript   59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
-JSON         33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-textmate     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+TypeScript   3 hrs 32 mins   ██████████████████▓░░░░░░   74.54 %
+JavaScript   37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+JSON         30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+SourceMap    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
