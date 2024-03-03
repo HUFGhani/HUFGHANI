@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2024 - To: 29 February 2024
+From: 24 February 2024 - To: 01 March 2024
 
-TypeScript     1 hr 26 mins    ██████████████████▓░░░░░░   75.16 %
-JavaScript     18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
-Bash           7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Text           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Groovy         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+TypeScript       1 hr 40 mins    ████████████▒░░░░░░░░░░░░   49.45 %
+JavaScript       50 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
+JSON             24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
+textmate         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Bash             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 ```
 
 <!--END_SECTION:waka-->
