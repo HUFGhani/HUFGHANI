@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2024 - To: 16 April 2024
+From: 10 April 2024 - To: 17 April 2024
 
 Other        1 hr 6 mins     ██████████████████▒░░░░░░   73.46 %
 JSON         14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
