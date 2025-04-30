@@ -66,17 +66,6 @@
 
 <br/>
 
-## 📊 This week I've been working with...
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 21 April 2025 - To: 28 April 2025
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ## Github Stats
 
